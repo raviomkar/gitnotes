@@ -1,0 +1,44 @@
+Local repository
+1. git init - initilise git
+2. git status - to know status of files
+3. git add <file Name1> <file name2> or git add . 
+4. git commit -m "custom message" (For save git file system)
+
+5. git pull origin master (To pull files from original location adding file)
+
+In git website
+
+1. git remote add origin "https:......"
+
+2. git push origin master (To push files into git)
+   user name: 
+   pwd:
+
+(after modify giles again use git add command and next git push to upload)
+
+
+clone the repositary from git
+
+git clone " clone url"
+
+(1.git add  2. git commit  3. git push)
+
+
+8. git branch <branch name>
+   git branch -D <branch name> to delete branch
+   git branch  (to list all branches)
+
+9. git checkout <branch name> (To go branches)
+
+10. git log (to see history of depository)
+
+11. git stash (to not reflect in master)
+12. git stash pop
+
+13. git revert <commit id> (commit id get from git lod) to go committed id files
+
+14. git diff <commit id1> <commid id 2> (to know difference of versions)
+
+15. git diff HEAD. ( to know current brach changes) 
+
+
